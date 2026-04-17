@@ -8,20 +8,17 @@ built cell by cell, next to the actual plant it models.
 ## The origin
 
 A few weeks ago I got a new plant.
-I named her Lambda.
-
-Not because I planned to model her —
-but because she felt like a rate.
-Something that happens at a certain frequency,
-unpredictably, in continuous time.
-
-Then I started watching her.
-And I noticed I never saw her close.
+I started watching her, and I noticed I never saw her close.
 
 That question — *why does it never close when I'm watching?* —
 turned into a probability question:
 how rare is a closure, really?
 What would I need to observe to see one?
+
+The math came first. The name came after.
+I named her Lambda because she felt like a rate —
+something that happens at a certain frequency,
+unpredictably, in continuous time.
 
 And that turned into this.
 
