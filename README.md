@@ -90,5 +90,5 @@ matplotlib
 
 ## Inspiration
 
-A plant. A desk. A question:
+A venus fly trap, a lot of free time, wanting to reduce uncertinty and a question:
 *why does it never close when I'm watching?*
