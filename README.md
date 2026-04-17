@@ -1,4 +1,4 @@
-# Venus Fly Trap — Poisson Closure Model 🌱
+# Venus Fly Trap — Poisson Closure Model 
 
 A stochastic model of insect arrivals and trap closures in a Venus fly trap,
 built next to a real plant named Lambda.
